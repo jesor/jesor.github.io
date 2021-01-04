@@ -1,0 +1,27 @@
+h1 {
+    color:brown;
+    text-align: center;
+}
+.head {
+    width: 100%;
+    height: 50px;
+    background-color: palegreen;
+}
+.boton {
+    color:red;
+}
+.formulario {
+    text-align: center;
+    color:black;
+}
+table {
+    border: 1px solid coral;
+    border-collapse: collapse;
+}
+td,th {
+    border: 1px solid coral;
+    text-align: center;
+}
+.table {
+    align-items: center;
+}
